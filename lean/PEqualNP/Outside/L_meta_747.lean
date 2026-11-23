@@ -1,7 +1,5 @@
 import Mathlib
 import PEqualNP.Defs
-import PEqualNP.MetaComplexity.L104
-import PEqualNP.MetaComplexity.L105
 
 namespace PEqualNP.Outside.L_meta_747_aux
 
